@@ -1,4 +1,4 @@
-# Authorization Server Project Setup and Running
+# Authorization Server Project Setup
 
 ## Requirements
 
